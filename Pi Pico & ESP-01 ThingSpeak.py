@@ -6,7 +6,7 @@ import bme280       #importing BME280 library
 
 myHOST = 'api.thingspeak.com'
 myPORT = '80'
-myAPI = 'MKL4YYAJNR73D5RQ'
+myAPI = '*****************'
 
 print()
 print("Machine: \t" + uos.uname()[4])
